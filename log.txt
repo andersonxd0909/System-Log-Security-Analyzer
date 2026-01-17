@@ -1,0 +1,5 @@
+INFO: Sistema iniciado correctamente.
+
+CRITICAL: Intento de acceso no autorizado en puerto 22.
+
+ERROR: Fallo en la base de datos centralizada.
